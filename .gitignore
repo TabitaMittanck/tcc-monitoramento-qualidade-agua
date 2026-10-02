@@ -1,0 +1,19 @@
+# Credenciais: nunca versionar
+secrets.h
+
+# Arduino / editores
+build/
+*.elf
+*.bin
+.vscode/
+.idea/
+
+# KiCad
+*-backups/
+*.kicad_prl
+*.bak
+fp-info-cache
+
+# Sistema
+.DS_Store
+Thumbs.db
